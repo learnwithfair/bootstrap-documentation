@@ -826,3 +826,9 @@ Or, [Click](https://github.com/learnwithfair/web-development-api/tree/main/HTML%
   </div>
 </div>
 ```
+
+
+
+## Follow Me
+
+<img src ="https://www.edigitalagency.com.au/wp-content/uploads/Facebook-logo-blue-circle-large-transparent-png.png" height="15px" width="15px"/> [Facebook](http://facebook.com/learnwithfair),   <img src ="https://image.similarpng.com/very-thumbnail/2021/10/Youtube-icon-design-on-transparent-background-PNG.png" height="20px" width="20px"/>  [Youtube](http://youtube.com/@learnwithfair),   <img src ="https://i.pinimg.com/originals/fa/ea/02/faea02f412415becfb4939d2b6431c28.jpg" height="15px" width="15px"/>    [Instagram](http://instagram.com/learnwithfair) 
